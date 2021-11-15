@@ -4,3 +4,9 @@
 4. git commit (로컬저장소에 작업 파일을 커밋).
 5. 원격 저장소 생성.
 6. git push (로컬저장소 == 원격저장소) 동기화.
+
+
+파일상태.
+unstage(add) > staged(commit) -> sync(push)
+
+pull(원격->로컬)
